@@ -1,2 +1,2 @@
 # ktransactions
-import bank transactions
+import bank transactions.
